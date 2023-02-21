@@ -9,13 +9,13 @@ h2 {
   font-size: 2.5rem;
   margin-bottom: 2rem; }
 
-section { 
+section {
   text-align: center;
   padding: 6rem 0;
   border-bottom: 3px solid black; }
 
 .intro {
-  height: 350px;
+  height: 351px;
   background-color: #0a5;
   background-image: url("/images/space-background.svg");
   background-size: 1440px;
